@@ -6,7 +6,7 @@ Follow the instructions line-by-line.
 * Enter, tab, up and down are represented by <ENTER><TAB>,<UP> and <DOWN>.  
 * "No output" or "nothing happens" are valid answers to any of the questions.
 ==========
-
+"No output"
 ==========
 1. Open a new terminal window.
 [NO OUTPUT]
@@ -25,6 +25,7 @@ Follow the instructions line-by-line.
 4. Create a directory called my_files
 [NO OUTPUT]
 ----------
+
 ==========
 5. Change the directory to my_files
 [NO OUTPUT]
@@ -36,7 +37,10 @@ $ touch foo.txt
 $ ls
 Copy and paste the output below.
 ----------
-
+ent-v314-004:~ student$ touch foo.txt
+ent-v314-004:~ student$ ls
+Adlm		Downloads	Pictures	Things		pymel.log
+Adobe		Library		Public		foo.txt	
 
 
 ==========
@@ -45,7 +49,10 @@ Copy and paste the output below.
 $ touch bar.txt
 ----------
 
-
+student$ touch bar.txt
+ent-v314-004:~ student$ ls
+Adlm		Downloads	Pictures	Things		my_file.txt
+Adobe		Library		Public		bar.txt	
 
 ==========
 8. List the files in this directory using the flag that gives the most details.
